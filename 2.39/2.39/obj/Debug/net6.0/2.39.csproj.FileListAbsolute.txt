@@ -1,0 +1,15 @@
+/Users/user/Projects/2.39/2.39/bin/Debug/net6.0/2.39
+/Users/user/Projects/2.39/2.39/bin/Debug/net6.0/2.39.deps.json
+/Users/user/Projects/2.39/2.39/bin/Debug/net6.0/2.39.runtimeconfig.json
+/Users/user/Projects/2.39/2.39/bin/Debug/net6.0/2.39.dll
+/Users/user/Projects/2.39/2.39/bin/Debug/net6.0/2.39.pdb
+/Users/user/Projects/2.39/2.39/obj/Debug/net6.0/2.39.csproj.AssemblyReference.cache
+/Users/user/Projects/2.39/2.39/obj/Debug/net6.0/2.39.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/2.39/2.39/obj/Debug/net6.0/2.39.AssemblyInfoInputs.cache
+/Users/user/Projects/2.39/2.39/obj/Debug/net6.0/2.39.AssemblyInfo.cs
+/Users/user/Projects/2.39/2.39/obj/Debug/net6.0/2.39.csproj.CoreCompileInputs.cache
+/Users/user/Projects/2.39/2.39/obj/Debug/net6.0/2.39.dll
+/Users/user/Projects/2.39/2.39/obj/Debug/net6.0/refint/2.39.dll
+/Users/user/Projects/2.39/2.39/obj/Debug/net6.0/2.39.pdb
+/Users/user/Projects/2.39/2.39/obj/Debug/net6.0/2.39.genruntimeconfig.cache
+/Users/user/Projects/2.39/2.39/obj/Debug/net6.0/ref/2.39.dll
